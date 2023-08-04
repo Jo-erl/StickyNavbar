@@ -1,9 +1,5 @@
 # StickyNavbar
-A responsive navbar that changes color on scroll.
+A responsive navbar that changes color on scroll.<br><br>
+<a href="https://jo-erl.github.io/StickyNavbar/">Demo Link</a><br><br>
 
-<h1>Contributing</h1>
-
-Contributions to this project are highly appreciated! If you encounter any issues, have suggestions for improvements, or would like to add new features, please feel free to submit a pull request.
-
-<h1>License</h1>
-This project is licensed under the MIT License.<br><br>
+![18](https://github.com/Jo-erl/3dcarousel/assets/133300552/2a1513b7-763d-47aa-b2f6-15bb7faf8b84)
