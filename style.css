@@ -71,15 +71,25 @@ color: black;
 }
 
 
-.footer {
-    position: relative;
-    background-color: #070707;
-    color: #ffffff;
+/*=============== FOOTER2 ===============*/
+
+.footer2 {
+    width: 100%;
     text-align: center;
+    padding: 10px 0; /* Adjust the padding as needed */
+    background-color: #000000;
+    position: absolute;
     font-size: 14px;
-    padding: 4px 0;
-    margin: 0 auto;
-}
+    color: rgb(255, 255, 255);
+    margin: 0; 
+    left: 0; 
+    right: 0; 
+  }
+  .footer2 p{
+    color: #aaaaaa;
+  }
+  
+  
 
 .navbar .fa {
     display: none;
